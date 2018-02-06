@@ -1,0 +1,35 @@
+.dark_theme {
+    -fx-text-fill: gray;
+    -fx-font-size: 16;
+    -fx-font-family: "Arial Black";
+    -fx-padding: 10;
+    -fx-background-color: darkslategray;
+}
+.light_theme {
+    -fx-text-fill: black;
+    -fx-font-size: 16;
+    -fx-font-family: "Arial Black";
+    -fx-padding: 10;
+    -fx-background-color: white;
+}
+.red_theme {
+    -fx-text-fill: red;
+    -fx-font-size: 16;
+    -fx-font-family: "Arial Black";
+    -fx-padding: 10;
+    -fx-background-color: darkred;
+}
+.green_theme {
+    -fx-text-fill: greenyellow;
+    -fx-font-size: 16;
+    -fx-font-family: "Arial Black";
+    -fx-padding: 10;
+    -fx-background-color: green;
+}
+.blue_theme {
+    -fx-text-fill: dodgerblue;
+    -fx-font-size: 16;
+    -fx-font-family: "Arial Black";
+    -fx-padding: 10;
+    -fx-background-color: blue;
+}
